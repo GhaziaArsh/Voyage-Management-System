@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1720258721 source:c:\users\pmls\desktop\jerry code\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<thread>
+
+1720258721 source:g:\2nd semester material\oop (object oriented programming)\final project\jerry code\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<thread>
+
